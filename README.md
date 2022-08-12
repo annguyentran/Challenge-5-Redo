@@ -5,3 +5,5 @@ textarea and press the save the button to save the information that they wrote. 
 
 
 <img width="960" alt="2022-08-11" src="https://user-images.githubusercontent.com/107017473/184335344-753e79a0-24bd-429e-9a04-5af6092080f4.png">
+
+Deployed: https://annguyentran.github.io/Challenge-5-Redo/
